@@ -1,0 +1,7 @@
+.message {
+	color: rgb(136, 10, 10);
+	background: rgb(120, 135, 148);
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 50px;
+}
